@@ -8,3 +8,5 @@ Eliminación de Carpeta Target de gitignore
 Supresión de DB
 Reescritura de Dockerfile
 Reemplazo del Proyecto de SpringBoot
+Comentario de Carpeta Target
+Corrección de Dockerfile
