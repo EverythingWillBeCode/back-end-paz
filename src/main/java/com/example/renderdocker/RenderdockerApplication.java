@@ -1,13 +1,13 @@
-package com.pruebaRender.renderDocker;
+package com.example.renderdocker;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RenderDockerApplication {
+public class RenderdockerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RenderDockerApplication.class, args);
+		SpringApplication.run(RenderdockerApplication.class, args);
 	}
 
 }

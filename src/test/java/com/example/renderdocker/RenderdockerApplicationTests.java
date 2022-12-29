@@ -1,10 +1,10 @@
-package com.pruebaRender.renderDocker;
+package com.example.renderdocker;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RenderDockerApplicationTests {
+class RenderdockerApplicationTests {
 
 	@Test
 	void contextLoads() {
