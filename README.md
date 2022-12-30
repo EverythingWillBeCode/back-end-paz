@@ -10,3 +10,8 @@ Reescritura de Dockerfile
 Reemplazo del Proyecto de SpringBoot
 Comentario de Carpeta Target
 Corrección de Dockerfile
+
+Detectado: No se generan archivos ni carpetas internos de Target
+
+Agregado de contenido en Target
+Chequeo de contenido de Target
