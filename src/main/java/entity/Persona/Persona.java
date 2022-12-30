@@ -1,4 +1,4 @@
-package com.pruebaRender.renderDocker.entity;
+package entity.Persona;
 
 import lombok.Getter;
 import lombok.Setter;
@@ -29,4 +29,3 @@ public class Persona {
     }
 
 }
-
